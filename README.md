@@ -7,8 +7,11 @@ The raw dataset is made up of 3 categorical variables (columns) and 1 numerical 
 These are the columns of the dataset and their data type
 
 *Department column - TEXT
+
 *Department column - TEXT
+
 *Equipment class - TEXT
+
 *Equipment Count- Numeric
 
 #                                   Data cleaning process
