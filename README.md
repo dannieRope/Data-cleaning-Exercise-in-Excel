@@ -1,5 +1,6 @@
 #                               Data-cleaning-Exercise-in-Excel
 **This exercise is carried out to solidify my data cleaning skill**
+
 The dataset used in this lab comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license.
 
 The raw dataset is made up of 3 categorical variables (columns) and 1 numerical variable(column).
@@ -21,6 +22,8 @@ These are the columns of the dataset and their data type
 * **Whitespace:** I Used the Find and Replace feature to remove all double-spaces from the data.
 
 * **Department names:** When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now splited over two columns in the data. I Used Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns
+
+  
                               | **Department** | **Department** |
                               |----------------|----------------|
                               |Board of Election|Economic Development|
