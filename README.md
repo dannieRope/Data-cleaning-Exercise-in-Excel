@@ -1,7 +1,7 @@
 #                               Data-cleaning-Exercise-in-Excel
 **This exercise is carried out to solidify my data cleaning skill**
 
-The dataset used in this lab comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license.
+The dataset used in this lab comes from the [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr) under a Public Domain license.
 
 The raw dataset is made up of 3 categorical variables (columns) and 1 numerical variable(column).
 These are the columns of the dataset and their data type
