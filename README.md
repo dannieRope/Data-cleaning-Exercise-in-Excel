@@ -5,6 +5,7 @@ The dataset used in this lab comes from the following source: https://data.montg
 
 The raw dataset is made up of 3 categorical variables (columns) and 1 numerical variable(column).
 These are the columns of the dataset and their data type
+
 *Department column - TEXT
 *Department column - TEXT
 *Equipment class - TEXT
