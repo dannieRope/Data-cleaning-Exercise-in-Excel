@@ -24,14 +24,14 @@ These are the columns of the dataset and their data type
 * **Department names:** When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now splited over two columns in the data. I Used Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns
 
   
-                              | Department| Department|
-                              |----------------|----------------|
-                              |Board of Election|Economic Development|
-                              |Circuit Court|Environmental Protection|
-                              |Community Engagement Cluster|Finance|
-                              |Community Use of Public Facilities|Fire and Rescue|
-                              |Consumer Protection|General Services|
-                              |Correction and Rehabilitation|Health and Human Services|
-                              |County Executives Office|    |
+   | Department| Department|
+   |----------------|----------------|
+   |Board of Election|Economic Development|
+   |Circuit Court|Environmental Protection|
+   |Community Engagement Cluster|Finance|
+   |Community Use of Public Facilities|Fire and Rescue|
+   |Consumer Protection|General Services|
+   |Correction and Rehabilitation|Health and Human Services|
+   |County Executives Office|    |
 
 
