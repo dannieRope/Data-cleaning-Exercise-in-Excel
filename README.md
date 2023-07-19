@@ -6,15 +6,15 @@ The dataset used in this lab comes from the following source: https://data.montg
 The raw dataset is made up of 3 categorical variables (columns) and 1 numerical variable(column).
 These are the columns of the dataset and their data type
 
-*Department column - TEXT
+*Department column - TEXT*
 
-*Department column - TEXT
+*Department column - TEXT*
 
-*Equipment class - TEXT
+*Equipment class - TEXT*
 
-*Equipment Count- Numeric
+*Equipment Count- NUMERIC*
 
-#                                   Data cleaning process
+##                                   Data cleaning process
 * **Column widths:** I Sorted out the widths of all columns so that the data is clearly visible in all cells.
 
 * **Empty rows:** I Used the Filter feature to look for blanks and remove all empty rows from the data.
