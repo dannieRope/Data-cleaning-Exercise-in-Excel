@@ -24,11 +24,15 @@ These are the columns of the dataset and their data types
 
   
 
-* **Duplicate records:** I Used either the Conditional Formatting or Remove Duplicates feature to look for and remove any duplicated records from the data.
+* **Duplicate records:** I Used the Remove Duplicates feature to look for and remove any duplicated records from the data. A total of 8 duplicates values were found and removed.
 
-* **Spelling:** The original source file data has not been checked for errors in the spelling. I Checked for spelling mistakes in the data and fix them.
 
-* **Whitespace:** I Used the Find and Replace feature to remove all double-spaces from the data.
+
+* **Spelling:** The original source file data has not been checked for errors in the spelling. I Checked for spelling mistakes in the data and fix them. During this process 5 words spelt wrongly were fixed.
+  
+
+* **Whitespace:** I Used the Find and Replace feature to remove all double-spaces from the data. 3 replacements were made. I also used the TRIM() to remove single spaces
+  
 
 * **Department names:** When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now splited over two columns in the data. I Used Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns
 
