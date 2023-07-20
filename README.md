@@ -26,6 +26,7 @@ Below are the columns of the dataset and their data types
 
 * **Duplicate records:** I Used the Remove Duplicates feature to look for and remove any duplicated records from the data. A total of 8 duplicates values were found and removed.
 
+![remove duplicates](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/30b8e4fa-313b-4107-9838-725095e1ee6d)
 
 
 * **Spelling:** The original source file data has not been checked for errors in the spelling. I Checked for spelling mistakes in the data and fix them. During this process 5 words spelt wrongly were fixed.
