@@ -34,6 +34,8 @@ Below are the columns of the dataset and their data types
 
 
 * **Whitespace:** I Used the Find and Replace feature to remove all double-spaces from the data. 3 replacements were made. I also used the TRIM() to remove single spaces
+
+![Find and replace](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/7e3a4746-8568-4bf1-890c-1f2d0ac9ab20)
   
 
 * **Department names:** When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now splited over two columns in the data. I Used Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns
