@@ -13,6 +13,8 @@ These are the columns of the dataset and their data types
 
 *Equipment Count- NUMERIC*
 
+![Screenshot (352)](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/25e0164a-05a7-4646-93da-848af18f3e89)
+
 ##                                   Data cleaning process
 * **Column widths:** I Sorted out the widths of all columns so that the data is clearly visible in all cells.
 
