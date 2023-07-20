@@ -18,7 +18,11 @@ These are the columns of the dataset and their data types
 ##                                   Data cleaning process
 * **Column widths:** I Sorted out the widths of all columns so that the data is clearly visible in all cells.
 
-* **Empty rows:** I Used the Filter feature to look for blanks and remove all empty rows from the data.
+* **Empty rows:** I Used the Filter feature to look for blanks and remove all empty rows from the data. A total of 5 rows was removed in this process.
+
+![Blanks](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/42aeed5f-20a3-4a9d-9d4c-5be566bb8442)
+
+  
 
 * **Duplicate records:** I Used either the Conditional Formatting or Remove Duplicates feature to look for and remove any duplicated records from the data.
 
