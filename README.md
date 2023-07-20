@@ -58,3 +58,5 @@ Below are the columns of the dataset and their data types
 
 ## Preview of the final result - clean Data
 
+![Final Result](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/5cf88206-772a-4ab7-862f-49da0d716ab3)
+
