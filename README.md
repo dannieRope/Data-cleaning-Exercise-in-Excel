@@ -13,6 +13,8 @@ Below are the columns of the dataset and their data types
 
 *Equipment Count- NUMERIC*
 
+
+## Preview of the raw data
 ![Screenshot (352)](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/25e0164a-05a7-4646-93da-848af18f3e89)
 
 ##                                   Data cleaning process
@@ -52,4 +54,7 @@ Below are the columns of the dataset and their data types
    |Correction and Rehabilitation|Health and Human Services|
    |County Executives Office|    |
 
+![flash fill](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/727fb490-e7cc-44fd-998b-2f3978cea1c5)
+
+## Preview of the final result - clean Data
 
