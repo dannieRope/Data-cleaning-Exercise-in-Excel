@@ -7,7 +7,7 @@ The raw dataset is made up of 3 columns and 63 rows including header and blank r
 These are the columns of the dataset and their data types
 
 
-*Department column - TEXT*
+*Department - TEXT*
 
 *Equipment class - TEXT*
 
@@ -29,7 +29,9 @@ These are the columns of the dataset and their data types
 
 
 * **Spelling:** The original source file data has not been checked for errors in the spelling. I Checked for spelling mistakes in the data and fix them. During this process 5 words spelt wrongly were fixed.
-  
+
+![spell checking](https://github.com/dannieRope/Data-cleaning-Exercise-in-Excel/assets/132214828/0a807d6e-3b8f-4ee4-aee0-108be4e0ea05)
+
 
 * **Whitespace:** I Used the Find and Replace feature to remove all double-spaces from the data. 3 replacements were made. I also used the TRIM() to remove single spaces
   
