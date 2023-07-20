@@ -1,10 +1,10 @@
 #                               Data-cleaning-Exercise-in-Excel
 **This exercise is carried out to solidify my data cleaning skill**
 
-The dataset used in this exercise comes from the [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr) under a Public Domain license.
+The dataset used in this exercise comes from [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr) under a Public Domain license.
 
-The raw dataset is made up of 3 columns and 63 rows including header and blank rows
-These are the columns of the dataset and their data types
+The raw dataset is made up of 4 columns and 63 rows including header and blank rows
+Below are the columns of the dataset and their data types
 
 
 *Department - TEXT*
