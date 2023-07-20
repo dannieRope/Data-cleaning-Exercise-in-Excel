@@ -3,7 +3,7 @@
 
 The dataset used in this exercise comes from [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr) under a Public Domain license.
 
-The raw dataset is made up of 4 columns and 63 rows including header and blank rows
+The raw dataset is a CSV file made up of 4 columns and 63 rows including header and blank rows
 Below are the columns of the dataset and their data types
 
 
