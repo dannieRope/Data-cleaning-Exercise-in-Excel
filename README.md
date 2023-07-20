@@ -3,8 +3,8 @@
 
 The dataset used in this exercise comes from the [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr) under a Public Domain license.
 
-The raw dataset is made up of 3 categorical variables (columns) and 1 numerical variable(column).
-These are the columns of the dataset and their data type
+The raw dataset is made up of 3 columns and 63 rows including header and blank rows
+These are the columns of the dataset and their data types
 
 
 *Department column - TEXT*
